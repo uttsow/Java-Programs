@@ -1,2 +1,3 @@
 # Java-Programs
-This consists of labs and projects I did for my Programming with Objects course
+This repo contains all the labs and assignments I've done for my Programming With Objects course at Binghamton University.
+
